@@ -1,0 +1,9 @@
+E:\Bizruntime\prac\unit_testing\testing1\Bank\obj\Debug\netstandard2.0\Bank.csprojAssemblyReference.cache
+E:\Bizruntime\prac\unit_testing\testing1\Bank\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+E:\Bizruntime\prac\unit_testing\testing1\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+E:\Bizruntime\prac\unit_testing\testing1\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+E:\Bizruntime\prac\unit_testing\testing1\Bank\bin\Debug\netstandard2.0\Bank.deps.json
+E:\Bizruntime\prac\unit_testing\testing1\Bank\bin\Debug\netstandard2.0\Bank.dll
+E:\Bizruntime\prac\unit_testing\testing1\Bank\bin\Debug\netstandard2.0\Bank.pdb
+E:\Bizruntime\prac\unit_testing\testing1\Bank\obj\Debug\netstandard2.0\Bank.dll
+E:\Bizruntime\prac\unit_testing\testing1\Bank\obj\Debug\netstandard2.0\Bank.pdb
